@@ -11,8 +11,19 @@ Black
 Orange
 Blue
 Red
+<<<<<<< HEAD
 These are the colors of the rainbox and the unicorn and the ponies
 
 //git push testing
 
 //git fetch testing
+=======
+These are the colors of the rainbox and the unicorn
+
+
+//git fetch from remote another  branch
+
+
+
+
+>>>>>>> b56bf22394de68def544dda4fd9e0e8129aab246
