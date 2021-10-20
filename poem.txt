@@ -16,8 +16,7 @@ These are the colors of the rainbox and the unicorn and the ponies
 
 //git push testing
 
-//git fetch testing
-=======
+
 These are the colors of the rainbox and the unicorn
 
 
@@ -26,4 +25,4 @@ These are the colors of the rainbox and the unicorn
 
 
 
->>>>>>> b56bf22394de68def544dda4fd9e0e8129aab246
+
